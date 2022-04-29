@@ -394,6 +394,7 @@ export const WALLETCONNECT_STYLE_SHEET = `:root {
   margin: 0;
   font-weight: 600;
   z-index: 1;
+  color: #000000;
 }
 
 .walletconnect-modal__footer {
