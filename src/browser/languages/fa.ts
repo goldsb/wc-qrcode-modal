@@ -1,7 +1,7 @@
 import { TextMap } from "../types";
 
 const fa: TextMap = {
-  choose_preferred_wallet: "کیف پول مورد نظر خود را انتخاب کنید",
+  choose_preferred_wallet: "کیف پول مورد نظر خود را انتخاب کنید، لطفاً مطمئن شوید که آن را نصب کرده اید.",
   connect_mobile_wallet: "به کیف پول موبایل وصل شوید",
   scan_qrcode_with_wallet: "کد QR را با یک کیف پول سازگار با WalletConnect اسکن کنید",
   connect: "اتصال",

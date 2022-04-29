@@ -1,7 +1,7 @@
 import { TextMap } from "../types";
 
 const es: TextMap = {
-  choose_preferred_wallet: "Elige tu billetera preferida",
+  choose_preferred_wallet: "Elija su cartera preferida, asegúrese de tenerla instalada.",
   connect_mobile_wallet: "Conectar a billetera móvil",
   scan_qrcode_with_wallet: "Escanea el código QR con una billetera compatible con WalletConnect",
   connect: "Conectar",

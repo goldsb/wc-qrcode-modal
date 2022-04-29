@@ -1,7 +1,7 @@
 import { TextMap } from "../types";
 
 const zh: TextMap = {
-  choose_preferred_wallet: "选择你的钱包",
+  choose_preferred_wallet: "选择您喜欢的钱包，请确保已安装。",
   connect_mobile_wallet: "连接至移动端钱包",
   scan_qrcode_with_wallet: "使用兼容 WalletConnect 的钱包扫描二维码",
   connect: "连接",
