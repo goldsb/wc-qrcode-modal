@@ -1,6 +1,6 @@
 {
   "name": "@goldsb/wc-qrcode-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QR Code Modal for WalletConnect",
   "scripts": {
     "clean": "rm -rf dist",
